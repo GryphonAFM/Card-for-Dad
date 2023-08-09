@@ -1,0 +1,47 @@
+html{
+    background-color: #CFFDE1;
+}
+
+p{
+    line-height: 1cm;
+}
+
+#Happy {
+    font-family: 'Preahvihear', sans-serif;
+    font-weight: 900;
+    color: #FED049;
+    font-size: 110pt;
+    text-align: center;
+}
+
+#Birthday{
+    color: #68B984;
+    font-family: 'Preahvihear', sans-serif; 
+    font-weight: 900;
+    font-size: 110pt;
+    text-align: center;
+}
+
+#Dad{
+    font-family: 'Preahvihear', sans-serif;
+    font-weight: 900;
+    color: #3D5656;
+    font-size: 110pt;
+    text-align: center;
+}
+
+#text{
+    font-family: 'Preahvihear', sans-serif;
+    color:#FED049; 
+    font-weight: 900;
+    font-size: 40pt;
+    text-align: center;
+}
+
+#moretext{
+    font-family: 'Preahvihear', sans-serif;
+    color:#68B984; 
+    font-weight: 900;
+    font-size: 40pt;
+    text-align: center; 
+}
