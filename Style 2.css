@@ -12,6 +12,7 @@ p{
     color: #FED049;
     font-size: 110pt;
     text-align: center;
+    margin-top: 1.8cm;
 }
 
 #Birthday{
@@ -36,6 +37,7 @@ p{
     font-weight: 900;
     font-size: 40pt;
     text-align: center;
+    line-height: 1.15cm;
 }
 
 #moretext{
